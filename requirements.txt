@@ -1,3 +1,9 @@
 pytest==7.4.2
-selene==2.0.0rc4
+selene>=2.0.0rc4
 allure-pytest==2.13.2
+
+
+requests~=2.31.0
+selenium~=4.11.2
+urllib3~=2.0.4
+python-dotenv==1.0.0
